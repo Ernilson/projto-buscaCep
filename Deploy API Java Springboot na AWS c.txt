@@ -1,0 +1,8 @@
+Deploy API Java Springboot na AWS com Docker e Terraform - Level 1
+https://www.youtube.com/watch?v=sX5dMjrLvG4
+
+Deploy API Java Springboot na AWS com Docker e Terraform - Level 2
+https://www.youtube.com/watch?v=vSitXR3xo1A
+
+Deploy API Java Springboot na AWS com Docker e Terraform - Level 3
+https://www.youtube.com/watch?v=sAXb_FL4xSE

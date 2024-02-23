@@ -1,3 +1,7 @@
+Docker-compose
+
+https://www.youtube.com/watch?v=sX5dMjrLvG4
+
 services:
   postgres-db:
     container_name: postgres-db
@@ -31,7 +35,3 @@ services:
 networks:
   pg-db-network:
     driver: bridge
-
-#http://localhost:16543/login?next=%2F
-#mvn spring-boot:build-image
-# docker-compose -f docker-compose-cp.yaml up -d
